@@ -3,3 +3,6 @@ target/
 .idea/
 *.iml
 .env
+
+# Local override for secrets (gitignored)
+/src/main/resources/application-local.properties

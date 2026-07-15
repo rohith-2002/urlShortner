@@ -1,0 +1,19 @@
+# Ignore build artifacts
+/target
+*.log
+*.tmp
+*.jar
+
+# IDE files
+.idea
+.vscode
+*.iml
+
+# Git
+.git
+
+# Maven wrapper
+.mvn
+
+# OS files
+.DS_Store
